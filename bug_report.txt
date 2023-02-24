@@ -1,0 +1,19 @@
+Summary: The scroll bar is missing at "Licenses" drop-down menu	"
+Preconditions: Open https://capital.com/.Selected language interface by default is English don't change that.
+
+Steps to Reproduce: 
+
+1. In the home page opposite to the logo click on the ""cc-toggleLicense btn"" to open the drop-down menu and try to scroll to the end of it.
+
+Expected Result:
+
+User can sroll to the end of a drop-down menu using the scroll bar to choose any License
+
+Actual Result:
+
+User can't sroll to the end of a drop-down menu because the scroll bar is missing 
+
+Environment: Windows 11 Pro 64-bit Opera, Version 109.0.19987.120
+
+Severity: Trivial
+Priority: Medium.
