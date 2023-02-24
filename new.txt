@@ -1,0 +1,9 @@
+
+
+	Full_name - Valentina Vasylivna Skyrska
+	
+	My_age - 19
+	
+	My_pets - 5
+
+	My_future_salary - 3000$
