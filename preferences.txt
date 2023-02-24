@@ -1,0 +1,11 @@
+Favorite_cartoons: "Tangled","Regal Academy"
+Favorite_movies : "The hustle"
+Favorite_serials: "Librarians"
+Favorite_anime: "My Next Life as a Villainess"
+Favorite_author: "Laurent Gounel"
+Favorite_food:"Stuffed peppers"
+Favorite_season: "Summer"
+Countries I'd like to visit: 
+Country_1:"Greece"
+Country_2:"Japan" 
+Country_3:"Italy"
